@@ -29,5 +29,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Essa página é feita com base no filme que está para ser lançado, contendo um pequeno resumo e com um botão para clicar e abrir o trailer.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://marcosroncaglia.github.io/mario-home/)
 # mario-home
